@@ -1,0 +1,47 @@
+[
+  {
+    "species": "Cow",
+    "product": "Milk",
+    "production_range": [8, 12]
+  },
+  {
+    "species": "Chicken",
+    "product": "Egg",
+    "production_range": [0, 1]
+  },
+  {
+    "species": "Sheep",
+    "product": "Wool",
+    "production_range": [2, 5]
+  },
+  {
+    "species": "Pig",
+    "product": "Bacon",
+    "production_range": [1, 3]
+  },
+  {
+    "species": "Goat",
+    "product": "Cheese",
+    "production_range": [3, 6]
+  },
+  {
+    "species": "Duck",
+    "product": "Duck Egg",
+    "production_range": [0, 2]
+  },
+  {
+    "species": "Horse",
+    "product": "Manure",
+    "production_range": [5, 10]
+  },
+  {
+    "species": "Bee",
+    "product": "Honey",
+    "production_range": [2, 4]
+  },
+  {
+    "species": "Turkey",
+    "product": "Turkey Meat",
+    "production_range": [2, 6]
+  }
+]
