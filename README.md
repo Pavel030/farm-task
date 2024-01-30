@@ -2,6 +2,7 @@
 
 1. git clone https://github.com/Pavel030/farm-task.git
 2. git checkout main
+3. composer i
 
 Данное приложение реализует следующее ТЗ:
 
